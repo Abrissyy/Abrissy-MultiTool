@@ -13,6 +13,9 @@ To install python lib launch setup.bat
 
 
 DONATE HERE: 
+<br>
 BTC Adress: bc1q8jq0jas8h7cm0ppfpt049rl2hd0qnsf8w5uzck
+<br>
 ETH Adress: 0x528E8625AF971011F3e43C59339A016785EAe215
+<br>
 LTC Adress: ltc1qqv0y2r83xl0larrr59f477g24u6egljfpm5acw
