@@ -3,6 +3,7 @@ Simple "Hacking" Multitool with wifi and discord integrations.
 
 # Req
 - Python
+<br>
 To install python lib launch setup.bat
 
 # Showcase
