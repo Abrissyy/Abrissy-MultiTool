@@ -1,6 +1,9 @@
 # Abrissy-MultiTool
 Simple "Hacking" Multitool with wifi and discord integrations.
-
+# How to use 
+- Launch CMD
+- cd (files directory)
+- abrissy.cmd -h 
 # Req
 - Python
 <br>
