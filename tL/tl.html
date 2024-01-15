@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<header>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+		<link rel="stylesheet" href="style.css" />
+		<title>Abrissy TokenLookup</title>
+	</header>
+	<body>
+		<div class="container">
+			<div class="main">
+				<input class="input_main" type="text" placeholder="Token here" />
+				<button class="default_button" onclick="checkToken()">Submit</button>
+			</div>
+			<br />
+			<br />
+			<div class="image">
+				<img class="avatar hide" id="profile" />
+			</div>
+			<ul class="list_group hide">
+				<li class="list_item" id="tag">tag</li>
+				<li class="list_item" id="email">email</li>
+				<li class="list_item" id="verified">verified</li>
+				<li class="list_item" id="id">id</li>
+				<li class="list_item" id="locale">locale</li>
+				<li class="list_item" id="phone">phone</li>
+				<li class="list_item" id="phoneblocked">phoneblocked</li>
+			</ul>
+			<button class="default_button hide" id="copybtn" onclick="copyValues()">Copy All</button>
+			<span class="alert hide" id="alert">Invalid Token</span>
+		</div>
+	</body>
+	<script src="scripts/main.js"></script>
+</html>
